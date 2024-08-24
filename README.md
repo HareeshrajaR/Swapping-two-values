@@ -30,6 +30,9 @@ a=b
 b=c
 print("Swapped values are:",a,b)
 ```
+## OUTPUT:
+![Screenshot 2024-08-24 143729](https://github.com/user-attachments/assets/1a4d8654-d4b2-4f39-94d3-c017ad7d8b8f)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
